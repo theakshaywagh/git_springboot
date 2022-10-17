@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot-CrudRepository
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AdityaChandrakantBod
+Implementation-Vendor-Id: Extrimity
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot-C
+ rudRepository/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
